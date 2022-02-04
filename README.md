@@ -26,7 +26,7 @@ This Cross Platform Native App is Powered By
   - MongoDB 
   - gorilla/mux
 
-To Know More About the Functionalities , Usage and Structure Do refer the project wiki.
+To Know More About the Functionalities , Usage and Structure Do refer the project [wiki](https://github.com/tarunKoyalwar/Sandman/wiki).
 
 This App Also has an awesome cmd client app [Matthew](https://github.com/tarunKoyalwar/matthew) to store and retrieve data to UI App. It can be 
 seamlessly integrated with your bash scripts / tools . It is similar to Linux Command `tee`
