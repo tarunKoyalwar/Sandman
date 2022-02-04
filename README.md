@@ -83,6 +83,8 @@ Download Binaries From Releases
  ```sh
  go install github.com/tarunKoyalwar/sandman@latest
  ```
+ 
+You Can Either Install MongoDB Locally or Use [MongoDB Atlas Free Instance](https://www.mongodb.com/cloud/atlas/register)
 
 Windows and Mac Users. If you face any problems while building visit [fyne](https://github.com/fyne-io/fyne) .
 
@@ -96,6 +98,9 @@ Open App Using Terminal To View App Logs
  ```
 
 When Installed From Releases . Open App Using Application Menu.
+
+When MongoDB is Installed Locally . 
+Verify that Instace is running.
 
 
 # Upcoming
