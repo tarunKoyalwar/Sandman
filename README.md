@@ -102,6 +102,7 @@ When Installed From Releases . Open App Using Application Menu.
 When MongoDB is Installed Locally . 
 Verify that Instace is running.
 
+###  Refer [wiki](https://github.com/tarunKoyalwar/Sandman/wiki) regarding Usage of CheckLists
 
 # Upcoming
 
