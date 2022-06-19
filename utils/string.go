@@ -11,10 +11,4 @@ func StringArraytoByteArr(dat []string) []byte {
 }
 
 // StringArrtoString ...
-func StringArrtoString(dat []string) string {
-	all := ""
-	for _, v := range dat {
-		all += v
-	}
-	return all
-}
+func StringArrtoString(dat []string) string { return string(StringArraytoByteArr(dat)) }
